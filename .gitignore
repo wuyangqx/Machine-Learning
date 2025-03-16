@@ -130,4 +130,4 @@ dmypy.json
 .pyre/
 
 # Netflix prize dataset
-/Kaggle/netflix-prize-data/
+/Kaggle/NetflixPrice/netflix-prize-data/
